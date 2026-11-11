@@ -2,7 +2,7 @@
 
 **An AI assistant for legal and real estate professionals.**
 
-**Role:** Main developer · **Contribution:** approximately 90% of project development, based on my own estimate · **Source code:** private organizational repository
+**Role:** Main developer - **Source code:** private organizational repository
 
 I developed most of the application, connecting a PHP backend and conversational interface with document retrieval, external AI models and persistent conversation history. I collaborated with other contributors on the project; the contribution estimate is not a measured share of commits or lines of code.
 
