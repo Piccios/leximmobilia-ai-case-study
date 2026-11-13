@@ -24,7 +24,7 @@ Legal and real estate professionals need to work with questions, supporting docu
 
 As the main developer, I worked across application architecture, backend development, the chat interface and AI integrations. My work brought these parts together into a professional workflow: access the application, select a topic and mode, ask a question, receive a streamed response and resume the conversation later.
 
-The project is collaborative. The approximately 90% estimate describes my overall development contribution; it does not imply sole authorship of every feature, document or specialist instruction.
+The project is collaborative. It had not the sole authorship of every feature, document or specialist instruction.
 
 ## Architecture
 
